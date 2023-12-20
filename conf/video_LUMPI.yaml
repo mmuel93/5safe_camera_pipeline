@@ -1,0 +1,5 @@
+capture_url: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/LUMPI_Hannover_cam_1/10/video.mp4' 
+#capture_url: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/LINK/debug_img.jpg' 
+top_view: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/LUMPI_Hannover_cam_1/10/Refimg.JPG'
+homography: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/LUMPI_Hannover_cam_1/10/homography_matrix.json'
+model: 'yolov8s-seg.pt'

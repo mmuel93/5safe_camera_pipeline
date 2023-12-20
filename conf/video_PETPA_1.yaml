@@ -1,0 +1,5 @@
+capture_url: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/petpa/camera_1/result/%05d.jpg' 
+top_view: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/petpa/camera_top/result/%05d.jpg'
+homography: 'C:/Users/mum21730/Projekte/Getting_Started/ipm_tool-main/outputs/petpa_camera1_to_camera_topview/homography_matrix.json'
+model: 'yolov8s-seg.pt'
+camera_matrix_pv: 'C:/Users/mum21730/Projekte/Getting_Started/camera_matrices/IP_Camera1_VUP.yml'

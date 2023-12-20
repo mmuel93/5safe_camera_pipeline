@@ -1,0 +1,4 @@
+capture_url: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/Verkehrsuebungsplatz/Measurements_230210/IP_Cameras/camera_position_1/FRONTAL_dynamic_peds_trimmed.avi' 
+top_view: 'C:/Users/mum21730/Desktop/5_Safe/Bilder/Verkehrsuebungsplatz/Measurements_230210/Refimg/Refimg_1.JPG'
+homography: 'conf/homography_matrix.json'
+model: 'yolov8s-seg.pt'

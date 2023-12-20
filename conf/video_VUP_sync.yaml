@@ -1,0 +1,5 @@
+capture_url: 'C:/Users/mum21730/Videos/camera2_ped/%05d.jpg' 
+top_view: 'C:/Users/mum21730/Videos/tv_ped/%05d.jpg'
+homography: 'C:/Users/mum21730/Projekte/Getting_Started/ipm_tool-main/outputs/VUP_Sync_Camera2_undist/homography_matrix.json'
+model: 'yolov8s-seg.pt'
+camera_matrix_pv: 'C:/Users/mum21730/Projekte/Getting_Started/camera_matrices/IP_Camera1_VUP.yml'
