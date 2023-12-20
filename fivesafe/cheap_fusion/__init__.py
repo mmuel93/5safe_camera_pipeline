@@ -1,0 +1,1 @@
+from cheap_fusion.cheap_fuser import CheapFusion
